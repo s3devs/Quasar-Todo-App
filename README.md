@@ -1,4 +1,4 @@
-# Quasar Todo (quasar-todo)
+# Quasar Todo App
 
 Quasar Todo app
 
